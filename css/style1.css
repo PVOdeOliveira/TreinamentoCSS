@@ -1,0 +1,37 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://wallpaperaccess.com/download/4k-tech-210888");
+    background-size: auto 100vh;
+    background-repeat: no-repeat;
+    font-family: Arial;
+  }
+  
+  .menu{
+    background-color: black;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: white;
+    text-align: center;
+  }
+  
+  
+  
